@@ -1,6 +1,6 @@
 package br.com.fiapride.model;
 
-public class microondas {
+public class Microondas {
 
     public String marca;
     public int potencia;

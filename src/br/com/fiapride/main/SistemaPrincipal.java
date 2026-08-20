@@ -1,12 +1,12 @@
 package br.com.fiapride.main;
 
-import br.com.fiapride.model.microondas;
+import br.com.fiapride.model.Microondas;
 
 public class SistemaPrincipal {
 
     public static void main(String[] args) {
 
-        microondas microondas = new microondas();
+        Microondas microondas = new Microondas();
 
         microondas.marca = "Electrolux";
         microondas.potencia = 1000;
